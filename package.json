@@ -1,0 +1,19 @@
+{
+  "name": "light-space",
+  "version": "1.0.0",
+  "description": "A site for sharing ideas to change the world for the better",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencermarx/light-space.git"
+  },
+  "author": "Spencer Marx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencermarx/light-space/issues"
+  },
+  "homepage": "https://github.com/spencermarx/light-space#readme"
+}
